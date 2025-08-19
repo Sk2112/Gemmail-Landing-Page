@@ -1,12 +1,47 @@
-# React + Vite
+# 🌟 GemMail – AI Powered Mail Assistant  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the official **GemMail landing page**!  
+This page provides everything you need to start using the **GemMail Chrome Extension** for AI-powered email replies.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features on the Landing Page  
 
-## Expanding the ESLint configuration
+- ✅ **Download Button** – Get the latest GemMail Chrome Extension as a `.zip` file  
+- ✅ **Introduction Video** – Watch how GemMail works and boosts your productivity  
+- ✅ **Easy Installation Guide** – Follow simple steps to add GemMail to your Chrome browser  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📥 Download Extension  
+
+Click the **Download** button on the landing page to get the `.zip` file of the GemMail Chrome Extension.  
+
+---
+
+## 🎥 Watch Introduction Video  
+
+Learn how GemMail saves your time and replies to emails intelligently with AI.  
+The video is embedded right into the landing page for easy access.  
+
+---
+
+## 🛠️ How to Install GemMail Extension Manually  
+
+Since GemMail is not yet on the Chrome Web Store, follow these steps to install manually:  
+
+1. **Download the ZIP file** from the landing page  
+2. **Extract the ZIP** file on your computer  
+3. Open Chrome and go to 👉 `chrome://extensions/`  
+4. Turn on **Developer Mode** (top-right corner)  
+5. Click on **Load Unpacked**  
+6. Select the extracted **GemMail extension folder**  
+7. Done  – You’ll now see the **GemMail AI Reply button** in your Gmail!  
+
+---
+
+## ❤️ Built By  
+
+This project is proudly built by **Sumit kumar**  
+
+---
